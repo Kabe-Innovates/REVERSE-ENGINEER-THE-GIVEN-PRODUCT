@@ -33,6 +33,7 @@
 ## Input:
 
 ### Output:
+![ezgif-52d9e531b02261](https://github.com/user-attachments/assets/dcc65457-964b-40e5-9ea4-cb31db1461b4)
 
 
 ### Name:
